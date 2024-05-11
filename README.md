@@ -2,13 +2,13 @@
 
 ## schedule
 
-05-25 : Deadline
-05-24 : Peer check and merge into the final version
-05-20 : Each person done their part
+05-25 : Deadline  
+05-24 : Peer check and merge into the final version  
+05-20 : Each person done their part  
 05-13 : Discuss and break down the tasks
 
-Above is the latest date that the task should be done; 
-You can fill in the checkbox below when you finish that task.
+Above is the latest date that the task should be done;   
+You can fill in the checkbox below when you finish that task.  
 If everyone has done one task, the next task can be advanced.
 
 ## Before 05-25
