@@ -1,4 +1,11 @@
 
+# 05-11
+## From Deyi:
+When finish our own job, I mean the .docx file, we can push them to this repo too, I think it's handy too update the files and for others to check.
+
+
+
+
 
 # 05-10
 
@@ -13,4 +20,7 @@ We have free printing points anyway :)
 
 3. English is my second language, and I’m still struggling with it.  
 Whenever you feel vague about what I’m saying, please do feel free to tell me 😅 , it can improve me too.
+
+
+
 
