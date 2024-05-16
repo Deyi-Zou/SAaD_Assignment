@@ -1,14 +1,9 @@
 
-# 05-11
+# 05-15
 ## From Deyi:
 When finish our own job, I mean the .docx file, we can push them to this repo too, I think it's handy too update the files and for others to check.
 
-
-
-
-
 # 05-10
-
 ## From Deyi:
 Some thoughts:
 1. There are 6 subsystems to be analyzed in "Requirement Summary" section, we can split them, each person 2 subsystems.  
