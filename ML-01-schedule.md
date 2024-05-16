@@ -27,7 +27,8 @@ If everyone has done one task, the next task can be advanced.
 - [ ] 
 
 ## Before 05-20 
-### Things to be done: 
+### Things to be done:   
+Done with their own part and send the file to this repo.
 ### Who has done:
 - [ ] 
 - [ ] 
@@ -39,6 +40,6 @@ Read the two requirements of Milestone-1 ( not the two GIORP-5000 pdf),
 then we can discuss how to split the job.
 
 ### Who has done:
-- [ ] 
+- [x] Bhawanjeet
 - [x] George
 - [x] Deyi
